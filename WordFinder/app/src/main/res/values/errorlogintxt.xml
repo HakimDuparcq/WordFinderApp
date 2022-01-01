@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ErrorLoginTxt">Sorry, error during login. Consider retrying ...</string>
+</resources>

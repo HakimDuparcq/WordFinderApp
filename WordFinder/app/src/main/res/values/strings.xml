@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">WordFinder</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_short">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="menu_bottomtext">// V 1.0.1 - Beta //</string>
+
+    <string name="loading_name">Word Finder</string>
+
+    <string name="results_toptext_definitions">Definitions</string>
+    <string name="results_toptext_synonyms">Synonyms</string>
+    <string name="researched_word_input">text</string>
+
+    <string-array name="programming_language">
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+        <item>premier</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+        <item>voiciunebonnedescription</item>
+    </string-array>
+</resources>
